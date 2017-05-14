@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.1.0_2beaf11eb94769f1ad83f139e65a9b88fe6f785b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_88b14888046f444a6582c24f592d48cfde87da86\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.1.0_88b14888046f444a6582c24f592d48cfde87da86.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_8063b639c4f633381cada6b52da63149b3cf4af0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anura\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\pre-dexed\release\support-annotations-25.1.0_586ef0ebdead0d661949c7a8d31d689ce7428755.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.1.0_58e4a3aef15e66b4b31a3cad4d184011349eca0b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_586ef0ebdead0d661949c7a8d31d689ce7428755\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\pre-dexed\release\com.android.support-design-25.1.0_8063b639c4f633381cada6b52da63149b3cf4af0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_2e746d72cc3a5e352f69e44c2896d80d57c8d49b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.1.0_0f02b65b43a26d1524f51c17f1724dfec2181cd1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_0f02b65b43a26d1524f51c17f1724dfec2181cd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.1.0_2ca393c43bd95f4397354885461dc1c4eabb35bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.1.0_2e746d72cc3a5e352f69e44c2896d80d57c8d49b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.1.0_0eb2be7f6eb662d2ae177a4dcf5bf078c8908224.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_2ca393c43bd95f4397354885461dc1c4eabb35bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.1.0_b9897bc5d503e1517d331dfadef21ab9d69f160c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_b9897bc5d503e1517d331dfadef21ab9d69f160c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_44d44329e046f1383790449d71d47157b6d8d847\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_0eb2be7f6eb662d2ae177a4dcf5bf078c8908224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e65d6fb198e253b6eded69383de3e78eccabf95f">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_18347ad06456cb1d1cb8bd625ae7b7d551743542\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bab5c3d0780dbde7619cecf00f23cab1d12d662">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_022bdd57b1b01a8fa898e4c480cb3a63b3815de7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\pre-dexed\release\com.android.support-transition-25.1.0_44d44329e046f1383790449d71d47157b6d8d847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-25.1.0_4986a92e44f7dedde997229f170d44e0a5b94577.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_58e4a3aef15e66b4b31a3cad4d184011349eca0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.1.0_a81260e3fb9a1e0be14fdbce796a662735611b16.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_a81260e3fb9a1e0be14fdbce796a662735611b16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_4986a92e44f7dedde997229f170d44e0a5b94577\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\slideTab\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_2beaf11eb94769f1ad83f139e65a9b88fe6f785b\classes.dex" />
+    </item>
+
+</items>

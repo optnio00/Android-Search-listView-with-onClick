@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\build\\intermediates\\res\\merged\\release\\menu\\menu_icon_text_tabs.xml",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\src\\main\\res\\menu\\menu_icon_text_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\build\\intermediates\\res\\merged\\release\\menu\\menu_custom_view_icon_text_tabs.xml",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\src\\main\\res\\menu\\menu_custom_view_icon_text_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\build\\intermediates\\res\\merged\\release\\menu\\menu_icon_tabs.xml",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\src\\main\\res\\menu\\menu_icon_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\build\\intermediates\\res\\merged\\release\\menu\\menu_pinned_top_tabs.xml",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\src\\main\\res\\menu\\menu_pinned_top_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\build\\intermediates\\res\\merged\\release\\menu\\menu_main2.xml",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\src\\main\\res\\menu\\menu_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\build\\intermediates\\res\\merged\\release\\menu\\menu_scrollable_tabs.xml",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\src\\main\\res\\menu\\menu_scrollable_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\build\\intermediates\\res\\merged\\release\\menu\\menu_simple_tabs.xml",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\src\\main\\res\\menu\\menu_simple_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\build\\intermediates\\res\\merged\\release\\menu\\menu_main.xml",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

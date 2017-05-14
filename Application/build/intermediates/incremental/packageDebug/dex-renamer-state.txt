@@ -1,0 +1,7 @@
+#Fri May 12 17:24:48 IST 2017
+base.0=C\:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_18347ad06456cb1d1cb8bd625ae7b7d551743542
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_022bdd57b1b01a8fa898e4c480cb3a63b3815de7\\classes.dex
+base.1=C\:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_022bdd57b1b01a8fa898e4c480cb3a63b3815de7
+file.0=C\:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_18347ad06456cb1d1cb8bd625ae7b7d551743542\\classes.dex

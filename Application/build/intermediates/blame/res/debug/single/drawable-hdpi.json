@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_favourite.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\src\\main\\res\\drawable-hdpi\\ic_tab_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_contacts.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\src\\main\\res\\drawable-hdpi\\ic_tab_contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_call.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\slideTab\\Application\\src\\main\\res\\drawable-hdpi\\ic_tab_call.png"
+    }
+]
